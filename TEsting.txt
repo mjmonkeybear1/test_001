@@ -11,3 +11,9 @@ Day 3, I'm seeing myself become more and more comfortable with the idea of stagi
 -------------------------------------------------------------------------------------------------------------
 
 Another SUCCESSFUL upload to github.
+
+-------------------------------------------
+
+This time, I'm going to try to push the commit through the console.
+
+------------------------------------------------------------------
