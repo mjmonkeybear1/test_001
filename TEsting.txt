@@ -3,3 +3,7 @@ TEsting
 ---------------------------------------------
 
 This is my second change
+
+-------------------------------------------
+
+Day 3, I'm seeing myself become more and more comfortable with the idea of staging, commiting, then pushing.
